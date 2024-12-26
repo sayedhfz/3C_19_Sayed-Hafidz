@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "676cae3f221ddd1a1ea764ff"
+  },
+  "nama": "sayed"
+},
+{
+  "_id": {
+    "$oid": "676caf00221ddd1a1ea76500"
+  },
+  "service": "laptop"
+}]
